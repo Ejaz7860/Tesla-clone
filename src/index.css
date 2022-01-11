@@ -1,0 +1,23 @@
+*{
+  margin: 0;padding: 0;
+  font-family: "Rubik", sans-serif;
+  box-sizing: border-box;
+  color: #393c41;
+  transition: 0.5s all linear;
+}
+
+
+html{
+  scroll-behavior: smooth;
+}
+body{
+  width: 100%;
+}
+
+li{
+  list-style-type: none;
+  padding: 0.625rem;
+}
+a{
+  text-decoration: none;
+}
